@@ -1,0 +1,49 @@
+Characters: Viking, Barbarian, Knight, Mage, Marksman, Healer, Sniper, Cowboy, Warrior, Lance, Fallen Angel, Warlord	
+
+
+
+Weapons: Blade of Despair, Flame Arrows, Bazooka, Old Rocket Launcher, Next Gen SMG, Whip, Great Dragon Spear (Dragon's Den exclusive), Berserker's Fury, Staff of Wizard, Bloodlust Axe, Necklace of Endurance, Glowing Wand, Twin Blades, Sledgehammer, Boxing Gloves
+
+
+
+NPC (Non-playable Characters): Foreman, Maiden, Villager, Farmer, Village Chief, Businessman, War Veteran
+
+
+
+Locations: The Abyss, Snowy Tundra, Lava Hotpot, Kingdom of Artenos, The Dragon's Den, Forest of Amazon Rain
+
+
+
+Enemies (The Abyss): 
+    Basic: Voids, Shadows
+    Elites: Shadow Knight
+    Bosses: Soul Weaver
+
+
+Enemies (Snowy Tundra): 
+    Basic: Snowballz, Snowmen
+    Elites: Yeti
+    Bosses: Krampus
+
+
+Enemies (Lava Hotpot): 
+    Basic: Lava Pulp, Hound Dog, Mala (Side Quest Exclusive)
+    Elites: Cerberus
+    Bosses: Lucifero
+
+
+Enemies (Kingdom of Artenos, starter location): 
+    Basic: Wolf, Boar
+    Elites: Alpha Wolf
+
+
+Enemies (The Dragon's Den): 
+    Basic: Flamin' Hot Komodo
+    Elites: Dragoon
+    Bosses: Multi-headed Dragon
+
+
+Enemies (Forest of Amazon Rain): 
+    Basic: Piranhas, Capybara
+    Elites: Croks
+    Bosses: King Kong
